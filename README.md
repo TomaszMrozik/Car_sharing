@@ -1,2 +1,4 @@
 # car-sharing
-HTML, CSS project
+My first HTML, CSS project.
+
+Corrections will be added soon.
